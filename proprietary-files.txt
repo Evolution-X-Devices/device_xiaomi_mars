@@ -1,3 +1,5 @@
+# These proprietary files are extracted from star MIUI V13.0.13.0.SKACNXM, note the pinned blobs
+
 # ACDB
 vendor/etc/acdbdata/adsp_avs_config.acdb
 vendor/etc/acdbdata/Tutu/Tutu_Bluetooth_cal.acdb
